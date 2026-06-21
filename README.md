@@ -4,7 +4,7 @@
 
 2.Ladder 2: GROUP BY \& HAVING
 
-2.Ladder 3: JOINS
+2.Ladder 3: JOINs
 
-
+Finally!!
 
